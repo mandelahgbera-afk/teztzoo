@@ -1,0 +1,10 @@
+{
+  "name": "lumenicdata-careers",
+  "version": "1.0.0",
+  "description": "LumenicData Careers and Application Platform",
+  "main": "api/submit-application.js",
+  "keywords": ["careers", "application", "form", "telegram"],
+  "author": "LumenicData",
+  "license": "MIT",
+  "engines": {"node": ">=18.0.0"}
+}
